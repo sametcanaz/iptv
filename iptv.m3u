@@ -1,0 +1,426 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT 1 HD
+https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",KANAL S
+https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w148839148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",STAR TV HD
+http://canli.haber365.com.tr/tr/startv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV", SHOW TV HD 
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",KANAL D HD
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",BEYAZ TV HD
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",ATV HD
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",FOX TV HD
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",KANAL 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TEVE2 HD
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",A2 HD
+http://116.202.238.88/A2_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SHOW MAX HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49280
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TV8.5 HD
+http://116.202.238.88/TV8.5_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TV4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT2 HD
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT TÜRK HD
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT SPOR HD
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT SPOR YILDIZ HD
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",A SPOR HD
+http://66.160.192.241/aspor/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS HABER HD
+http://23.146.40.56:8000/@demopadTR/RdZPUuJ6hk/17539
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TİVİBU SPOR HD
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/6101
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TJK TV HD
+http://tjktv-live.tjk.org/tjktv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",GS TV HD
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/6115
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",FB TV HD
+http://nk.hdiptv.in:8080/dark2iptv/67u90dmwWY/34
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",GAME SCREEN HD
+http://cheaptv.online:8080/resplice/wdLIS4d9758INyuX/576
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",IDMAN TV HD
+http://dreamstaraz.com:25461/ottfull/ott123456/56
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",CBC SPORT HD
+http://dreamstaraz.com:25461/ottfull/ott123456/129
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TARAFTAR HD
+http://plotter.dynexp.de:8080/Hasannabiim/fTGARUVWJENv/317
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TARAFTAR 2 HD
+http://plotter.dynexp.de:8080/Hasannabiim/fTGARUVWJENv/313
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TARAFTAR 3 HD
+http://plotter.dynexp.de:8080/Hasannabiim/fTGARUVWJENv/315
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV", TARAFTAR 4 HD
+http://plotter.dynexp.de:8080/Hasannabiim/fTGARUVWJENv/316
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TARAFTAR 5 HD
+http://plotter.dynexp.de:8080/Hasannabiim/fTGARUVWJENv/22934
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV", EURO STAR
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49284
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV", SHOW TÜRK HD 
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV", EURO D HD 
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",ATV AVRUPA
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49283
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TV8 INT
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49288
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV", KANAL 7 AVRUPA HD
+http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV", MC EU
+http://cheaptv.online:8080/resplice/wdLIS4d9758INyuX/76648
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",A HABER HD
+http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",CNN TÜRK HD
+https://teve2.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",NTV HD
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",24 HD
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",HABER GLOBAL HD
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",HABER TÜRK HD
+http://canli.haber365.com.tr/tr/haberturk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TGRT HABER HD
+https://tv.ensonhaber.com/tgrthaber/tgrthaber_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",BENGÜ TÜRK HD
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",ÜLKE TV HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49328
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TVNET HD
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TV100 HD
+http://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",FLASH HABER HD
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",AKİT TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",HALK TV HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49326
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SÖZCÜ TV HD
+http://plotter.dynexp.de:8080/Hasannabiim/fTGARUVWJENv/26590
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",A PARA HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49333
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",BLOOMBERG HT HD
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EKOTÜRK HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49335
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN MOVIES TÜRK HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/86
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN MOVIES FAMILY HD
+http://blubbertv.live:8080/HaticeCE/bELJkHaJ5Y/2760
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN MOVIES STARS HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/85
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN MOVIES PREMİER HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/83
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN MOVIES PREMİER 2 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/84
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN MOVIES ACTION HD
+http://blubbertv.live:8080/HaticeCE/bELJkHaJ5Y/2756
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN MOVIES ACTION 2 HD
+http://ger54.xyz:8080/BQsCx4vA63fasdfasfgsd/56HcrVxWr4gsdfgsdfgsd3425345524232/92381
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SERIES 1 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/87
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SERIES 2 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/88
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SERIES 3 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/89
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SERIES 4 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/90
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN BOX OFFICE 1 HD
+http://nk.hdiptv.in:8080/dark2iptv/67u90dmwWY/153
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN BOX OFFICE 2 HD
+http://nk.hdiptv.in:8080/dark2iptv/67u90dmwWY/154
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN BOX OFFICE 3 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/82
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",MOVIE SMART TÜRK HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/92
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",MOVIE SMART CLASSIC HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/91
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DİZİ SMART MAX HD
+http://blubbertv.live:8080/HaticeCE/bELJkHaJ5Y/2750
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DİZİ SMART PREMIUM HD
+http://blubbertv.live:8080/HaticeCE/bELJkHaJ5Y/2751
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/98
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV 2 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/99
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV YERLİ HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/107
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV YERLİ 2 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/108
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV AİLE HD
+http://nk.hdiptv.in:8080/dark2iptv/67u90dmwWY/179
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV AİLE 2 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/101
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV AKSİYON HD
+http://nk.hdiptv.in:8080/dark2iptv/67u90dmwWY/180
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV AKSİYON 2 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/103
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV KOMEDİ HD
+http://nk.hdiptv.in:8080/dark2iptv/67u90dmwWY/178
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV KOMEDİ 2 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/106
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV 1001 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/111
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SİNEMA TV 1002 HD
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/112
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",FX HD
+http://blubbertv.live:8080/ErhaDOENMEZ/72uaXT6qPE/2741
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EPIC DRAMA HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/61813
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",BLU TV PLAY 1 HD
+https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",BLU TV PLAY 2 HD
+https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TELEON HD
+https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",MAX TÜRK HD
+http://blubbertv.live:8080/ErhaDOENMEZ/72uaXT6qPE/92403
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",MAX GOLD HD
+http://blubbertv.live:8080/ErhaDOENMEZ/72uaXT6qPE/92433
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",MAX AKSİYON HD
+http://blubbertv.live:8080/ErhaDOENMEZ/72uaXT6qPE/92771
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",MAX AKSİYON 2 HD
+http://blubbertv.live:8080/ErhaDOENMEZ/72uaXT6qPE/92772
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",KEMAL SUNAL TV 1
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/6325
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",KEMAL SUNAL TV 2
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/101136
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",AKASYA DURAĞI
+http://blubbertv.live:8080/HaticeCE/bELJkHaJ5Y/433735
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",BİZİM HİKAYE
+http://blubbertv.live:8080/HaticeCE/bELJkHaJ5Y/433706
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV", GENİŞ AİLE 
+http://oaclass.live:8080/1234567890/0987654321/688017
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",CENNET MAHALLESİ
+http://blubbertv.live:8080/HaticeCE/bELJkHaJ5Y/428992
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",ŞEVKAT YERİMDAR
+http://blubbertv.live:8080/HaticeCE/bELJkHaJ5Y/433588
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TİTAN SPORTS 1 HD
+http://sezonhd.xyz:8080/drbucho/drbucho2352/342457
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TİTAN SPORTS 2 HD
+http://sezonhd.xyz:8080/drbucho/drbucho2352/253291
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 4K
+http://cdn.turboiptv.site:80/KoPrPvy7FJ/JvDwO3kybJ/5
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/526
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 2 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/527
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 3 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/529
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 4 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/531
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 5 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/53525
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS MAX 1 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/532
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS MAX 2 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/533
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TİVİBU SPOR 1 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/699
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TİVİBU SPOR 2 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/700
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TİVİBU SPOR 3 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/701
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TİVİBU SPOR 4 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/32960
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SPOR SMART HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/702
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",SPOR SMART 2 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/4823
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",S SPORT HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/989
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",S SPORT 2 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/13574
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EXXEN TV HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/61784
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EXXEN SPOR 1 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/33033
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EXXEN SPOR 1 FULL HD
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/190754
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EXXEN SPOR 2 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/33044
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EXXEN SPOR 3 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/33043
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EXXEN SPOR 4 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/33625
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EXXEN SPOR 5 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/33627
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EXXEN SPOR 6 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/33629
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EXXEN SPOR 7 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/34992
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",EXXEN SPOR 8 HD
+http://panel.meytv.org:8080/sinemaenosad123asf/Y4zHE7KQwUNN/34994
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT BELGESEL HD
+http://116.202.238.88/TRTBELGESEL_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DMAX HD
+https://dogus-live.daioncdn.net/dmax/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TLC HD
+http://116.202.238.88/TLC_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",YABAN TV HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49347
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN IZ HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49356
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN H&E HD
+http://tiger88.live:8080/play/live.php?mac=00:1A:79:AD:F4:4F&stream=87129&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN GURME HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49278
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",NAT GEO HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/61788
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",NAT GEO WILD HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49350
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DISCOVERY CHANNEL HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/61789
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DISCOVERY SCIENCE HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/61790
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DISCOVERY ID HD
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV", HISTORY HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49342
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",BBC EARTH HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/61787
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DOCU SCREEN HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49368
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",OUTDOOR HD
+http://23.146.40.56:8000/@demopadTR/RdZPUuJ6hk/17618
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",LOVE NATURE HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49344
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT ÇOCUK HD
+http://116.202.238.88/TRTCOCUK_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT DİYANET ÇOCUK HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",CARTOON NETWORK
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49380
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",MİNİKA ÇOCUK 
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/6247
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",MİNİKA GO
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/6244
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",ÇOCUK SMART HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49373
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DISNEY CHANNEL HD
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/20416
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DISNEY JUNIOR HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49377
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",CARTOONITO HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/61796
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",NICKELODEON HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49376
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",NICK JR.
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49375
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",NICKTOONS HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/61795
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DA VINCI LEARNING HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49351
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",BBC CEEBIES HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49379
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",AMADEUS TV HD
+http://cheaptv.online:8080/resplice/wdLIS4d9758INyuX/286815
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",KRAL ŞAKİR
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33310
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",KRAL ŞAKİR 2
+http://blubbertv.live:8080/ErhaDOENMEZ/72uaXT6qPE/433790
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS HABER FULL HD
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/103337
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 FULL HD
+http://gxc.starfix.vip:8080/R@sim-ATR-DE/Mx1arcHZ0M/140474
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 HD MAXTV
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/191152
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 HD BLUBBERTV
+http://blubbertv.live:8080/ErhaDOENMEZ/72uaXT6qPE/2198
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 HD SEZONHD
+http://sezonhd.xyz:8080/drbucho/drbucho2352/253
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 HD DREAMSTARAZ
+http://dreamstaraz.com:25461/ottfull/ott123456/960
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 HD GER54
+http://ger54.xyz:8080/BQsCx4vA63fasdfasfgsd/56HcrVxWr4gsdfgsdfgsd3425345524232/78345
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 HD MAİN.AT.EU
+http://main.at.eu.org:25461/5336032034/5336032034/85837
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 HD İOMEDİA
+http://iomedia.pro:8080/yusuf6122769/9YxQTJneSSLZ/78345
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 HD TİGER88
+http://tiger88.live:8080/play/live.php?mac=00:1A:79:AD:F4:4F&stream=52860&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 STREAMRADAR.CO
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 HD TRGOALS
+https://trgoals.proxyio.workers.dev/yayinzirve.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 1 MOBİL
+http://cheaptv.online:8080/resplice/wdLIS4d9758INyuX/1735
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 2 FULL HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/31432
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 2 HD BLUBBERTV
+http://blubbertv.live:8080/HaticeCE/bELJkHaJ5Y/2205
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 2 HD TWERK
+http://oaclass.live:8080/1234567890/0987654321/425
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 3 FULL HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/31435
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 4 FULL HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/31437
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS 5 FULL HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33267
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS MAX 1 FULL HD
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/6099
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",beIN SPORTS MAX 2 FULL HD
+http://test.omrgolvip.xyz:8080/grashd112023/ga13930101/6100
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TRT 1 FULL HD
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",STAR TV FULL HD
+http://116.202.238.88/STARTV_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV", SHOW TV FULL HD
+http://amtv1-2.livestreamingcdn.com:80/gt-show-tv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",KANAL D FULL HD
+http://116.202.238.88/KANALD_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",ATV FULL HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49247
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",FOX TV FULL HD
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TV8 FULL HD
+http://lifetvstream.xyz:8080/eno/gGJbZeZkvZ/49262
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",TV8.5 FULL HD
+http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",KANAL 7 FULL HD
+http://116.202.238.88/KANAL7_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DENEME
+https:///
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DENEME
+https:///
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DENEME
+https:///
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DENEME
+https:///
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DENEME
+https:///
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DENEME
+https:///
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DENEME
+https:///
+#EXTINF:-1 tvg-id="" tvg-name="SametCanaz" group-title="TV",DENEME
+https:///
+
+
+
+
+
+
+
+
+
