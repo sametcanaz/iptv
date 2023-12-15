@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0 tvg-rec="0",VF Новогодний
+#EXTGRP:Кино
+http://9jeixdcy.rostelekom.xyz/iptv/NQDL3QT8F6XNHD/17035/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ёлки
+#EXTGRP:Кино
+http://9jeixdcy.rostelekom.xyz/iptv/NQDL3QT8F6XNHD/14222/index.m3u8
+#EXTINF:0 tvg-rec="0",VF New Year
+#EXTGRP:Кино
+http://9jeixdcy.rostelekom.xyz/iptv/NQDL3QT8F6XNHD/15522/index.m3u8
+#EXTINF:0 tvg-rec="0",VF С новым годом!
+#EXTGRP:Кино
+http://9jeixdcy.rostelekom.xyz/iptv/NQDL3QT8F6XNHD/15524/index.m3u8
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/w75gVXp/trt1.png" tvg-id="TRT1.tr" ,TR: TRT1 UHD
 http://panel.meytv.org:8080/maco12/maco21/839
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/w75gVXp/trt1.png" tvg-id="TRT1.tr" ,TR: TRT1 HD
