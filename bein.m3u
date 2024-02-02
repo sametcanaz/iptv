@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-referer=https://google.com/
 #EXTVLCOPT:http-origin=https://google.com
 https://corsproxy.xyz/cakal.click/yayin1.m3u8
-#EXTINF:-1 ,BEIN 4K
 #EXTVLCOPT:http-referer=https://canliskor.xyz/
 #EXTVLCOPT:http-origin=https://canliskor.xyz
+#EXTINF:-1 ,BEIN 4K
 https://corsproxy.xyz/https://noxcdn-r.xyz/cdn/bein-sports-1.m3u8
