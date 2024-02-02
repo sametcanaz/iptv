@@ -4,7 +4,6 @@
 #EXTVLCOPT:http-origin=https://google.com
 https://corsproxy.xyz/cakal.click/yayin1.m3u8
 #EXTINF:-1 ,BEIN 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36;+http://www.google.com/
 #EXTVLCOPT:http-referer=https://canliskor.xyz/
 #EXTVLCOPT:http-origin=https://canliskor.xyz
-https://proxy.linkeddatafragments.org/https://noxcdn-r.xyz/cdn/bein-sports-1.m3u8
+https://corsproxy.xyz/https://noxcdn-r.xyz/cdn/bein-sports-1.m3u8
